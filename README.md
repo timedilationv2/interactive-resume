@@ -14,8 +14,7 @@ Built like a terminal interface to reflect how I think, build, and ship.
 
 ## but - why? 
 
-I don’t just write about systems — I build them.  
-This project shows how I treat **resumes like interfaces**: modular, functional, and optimized for real-world execution.
+Because.
 
 ## 💡 function
 
